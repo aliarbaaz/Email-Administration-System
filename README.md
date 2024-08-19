@@ -1,2 +1,2 @@
 # Email-Administration-System
-Email Admninistration System (mini project)
+Email Admninistration System
